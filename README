@@ -20,3 +20,6 @@ hello world test msg
   336  git add README 
   337  git commit
   339  git push -u origin master
+
+#get updated files from server
+  git pull
