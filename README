@@ -1,1 +1,18 @@
 hello world test msg
+
+
+  308  git init test1
+  309  cd test1
+  311  gvim README
+  312  gvim sample.c
+  313  git add README 
+  314  git add sample.c 
+  315  git commit -m "random msg"
+  318  git remote add origin https://github.com/x571/test1.git
+  319  git push origin master
+  322  gvim sample.py
+  325  python sample.py 
+  326  git add sample.py 
+  327  git commit -m "adding py"
+  328  git push origin master
+
