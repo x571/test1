@@ -16,3 +16,7 @@ hello world test msg
   327  git commit -m "adding py"
   328  git push origin master
 
+#editing a file
+  336  git add README 
+  337  git commit
+  339  git push -u origin master
