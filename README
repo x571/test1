@@ -23,3 +23,6 @@ hello world test msg
 
 #get updated files from server
   git pull
+
+#merge with other repository
+  git push ... 
